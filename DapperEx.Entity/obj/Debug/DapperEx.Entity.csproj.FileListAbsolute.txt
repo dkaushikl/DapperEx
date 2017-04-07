@@ -1,0 +1,10 @@
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Entity\bin\Debug\DapperEx.Entity.dll
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Entity\bin\Debug\DapperEx.Entity.pdb
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Entity\obj\Debug\DapperEx.Entity.csprojResolveAssemblyReference.cache
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Entity\obj\Debug\DapperEx.Entity.dll
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Entity\obj\Debug\DapperEx.Entity.pdb
+D:\Darshan c drive\DapperEx\DapperEx.Entity\bin\Debug\DapperEx.Entity.dll
+D:\Darshan c drive\DapperEx\DapperEx.Entity\bin\Debug\DapperEx.Entity.pdb
+D:\Darshan c drive\DapperEx\DapperEx.Entity\obj\Debug\DapperEx.Entity.csprojResolveAssemblyReference.cache
+D:\Darshan c drive\DapperEx\DapperEx.Entity\obj\Debug\DapperEx.Entity.dll
+D:\Darshan c drive\DapperEx\DapperEx.Entity\obj\Debug\DapperEx.Entity.pdb

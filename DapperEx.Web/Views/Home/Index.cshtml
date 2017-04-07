@@ -1,0 +1,60 @@
+﻿@model DapperEx.Web.Models.UserModel
+@{
+    ViewBag.Title = "Insert new user record!";
+}
+
+<div class="container">
+    @using (Html.BeginForm("SaveUser", "Home", null, FormMethod.Post, new { @class = "form-signin", role = "form" }))
+    {
+        <div class="row">
+            <div class="col-md-12">
+                <h2>Please enter user details below:</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                @Html.LabelFor(x => x.USERID)
+            </div>
+            <div class="col-md-4">
+                @Html.TextBoxFor(x => x.USERID, new { @class = "form-control", placeholder = "User ID" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                @Html.LabelFor(x => x.USER_PSWD)
+            </div>
+            <div class="col-md-4">
+                @Html.PasswordFor(x => x.USER_PSWD, new { @class = "form-control", placeholder = "User Password" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                @Html.LabelFor(x => x.LASTNAME)
+            </div>
+            <div class="col-md-4">
+                @Html.TextBoxFor(x => x.LASTNAME, new { @class = "form-control", placeholder = "Last Name" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                @Html.LabelFor(x => x.FIRSTNAME)
+            </div>
+            <div class="col-md-4">
+                @Html.TextBoxFor(x => x.FIRSTNAME, new { @class = "form-control", placeholder = "First Name" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                @Html.LabelFor(x => x.EMAIL)
+            </div>
+            <div class="col-md-4">
+                @Html.TextBoxFor(x => x.EMAIL, new { @class = "form-control", placeholder = "Email" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 right">
+                <input type="submit" value="Save" class="btn btn-success" />
+            </div>
+        </div>
+    }
+</div>

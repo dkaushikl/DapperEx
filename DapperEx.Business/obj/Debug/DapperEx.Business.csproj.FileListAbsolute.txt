@@ -1,0 +1,23 @@
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\bin\Debug\DapperEx.Business.dll
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\bin\Debug\DapperEx.Business.pdb
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\bin\Debug\Dapper.dll
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\bin\Debug\DapperEx.DAL.dll
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\bin\Debug\DapperEx.Entity.dll
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\bin\Debug\DapperExtensions.dll
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\bin\Debug\DapperEx.DAL.pdb
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\bin\Debug\DapperEx.Entity.pdb
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\bin\Debug\Dapper.xml
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\obj\Debug\DapperEx.Business.csprojResolveAssemblyReference.cache
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\obj\Debug\DapperEx.Business.dll
+C:\Vijay\Project\Dapper\DapperEx\DapperEx.Business\obj\Debug\DapperEx.Business.pdb
+D:\Darshan c drive\DapperEx\DapperEx.Business\bin\Debug\DapperEx.Business.dll
+D:\Darshan c drive\DapperEx\DapperEx.Business\bin\Debug\DapperEx.Business.pdb
+D:\Darshan c drive\DapperEx\DapperEx.Business\bin\Debug\DapperEx.DAL.dll
+D:\Darshan c drive\DapperEx\DapperEx.Business\bin\Debug\DapperEx.Entity.dll
+D:\Darshan c drive\DapperEx\DapperEx.Business\bin\Debug\DapperExtensions.dll
+D:\Darshan c drive\DapperEx\DapperEx.Business\bin\Debug\DapperEx.DAL.pdb
+D:\Darshan c drive\DapperEx\DapperEx.Business\bin\Debug\DapperEx.Entity.pdb
+D:\Darshan c drive\DapperEx\DapperEx.Business\bin\Debug\Dapper.xml
+D:\Darshan c drive\DapperEx\DapperEx.Business\obj\Debug\DapperEx.Business.csprojResolveAssemblyReference.cache
+D:\Darshan c drive\DapperEx\DapperEx.Business\obj\Debug\DapperEx.Business.dll
+D:\Darshan c drive\DapperEx\DapperEx.Business\obj\Debug\DapperEx.Business.pdb

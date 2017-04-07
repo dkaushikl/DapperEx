@@ -1,0 +1,51 @@
+﻿@model IEnumerable<DapperEx.Web.Models.UserModel>
+@{
+    ViewBag.Title = "List shown by executing stored procedure using Dapper";
+}
+<h2>@ViewBag.Title.</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-2">
+            <h4>User ID</h4>
+        </div>
+        <div class="col-md-2">
+            <h4>User Password</h4>
+        </div>
+        <div class="col-md-2">
+            <h4>Last Name</h4>
+        </div>
+        <div class="col-md-2">
+            <h4>First Name</h4>
+        </div>
+        <div class="col-md-2">
+            <h4>Email</h4>
+        </div>
+        <div class="col-md-2">
+            <h4>Password Expiry</h4>
+        </div>
+    </div>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-2">
+                @Html.DisplayFor(x=>item.USERID)
+            </div>
+            <div class="col-md-2">
+                @Html.DisplayFor(x=>item.USER_PSWD)
+            </div>
+            <div class="col-md-2">
+                @Html.DisplayFor(x => item.LASTNAME)
+            </div>
+            <div class="col-md-2">
+                @Html.DisplayFor(x => item.FIRSTNAME)
+            </div>
+            <div class="col-md-2">
+                @Html.DisplayFor(x => item.EMAIL)
+            </div>
+            <div class="col-md-2">
+                @Html.DisplayFor(x => item.PSWD_EXPIRE)
+            </div>
+        }
+    </div>
+</div>
